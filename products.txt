@@ -1,0 +1,14 @@
+Vitamin C Serum,         Garnier, 200, 1000.00,         France
+
+Skin Cleanser,         Cetaphil, 100, 280.00,         Switzerland
+
+Sunscreen,         Aqualogica, 200, 700.00,         India
+
+Squalane Cleanser,         The Ordinary, 500, 1200.00,         Canada
+
+Double Serum,         Clarins, 450, 900.00,         France
+
+Anth. Milk Sunscreen,         La Roche-Posay, 600, 1400.00,         France
+
+face wash,         Himalaya, 164, 60.00,         India
+
